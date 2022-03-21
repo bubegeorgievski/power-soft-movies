@@ -1,0 +1,320 @@
+[{
+        "id": 1,
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZThjMTA5YjgtZmViZi00YjY0LTk5MzQtMjUwMGEzZGVlYzFjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "name": "House of Gucci",
+        "description": "When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel their legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder.",
+        "length": 158,
+        "director": [
+            "Ridley Scott"
+        ],
+        "actors": [
+            "Lady Gaga",
+            "Adam Driver",
+            "Al Pacino",
+            "Jeremy Irons",
+            "Jared Leto"
+        ],
+        "genre": [
+            "Drama",
+            "Crime",
+            "Thriller"
+        ],
+        "year": [
+            "2021"
+        ]
+    },
+    {
+        "id": 2,
+        "thumbnail": "https://cdn.europosters.eu/image/1300/posters/james-bond-no-time-to-die-profile-i114389.jpg",
+        "name": "No Time to Die",
+        "description": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+        "length": 163,
+        "director": [
+            "Cary Joji Fukunaga"
+        ],
+        "actors": [
+            "Daniel Craig",
+            "Ana de Armas",
+            "Rami Malek"
+        ],
+        "genre": [
+            "Action",
+            "Thriller",
+            "Crime"
+
+        ],
+        "year": [
+            "2021"
+        ]
+    },
+    {
+        "id": 3,
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmRjODgyMzEtMzIxYS00OWY2LTk4YjUtMGMzZjMzMTZiN2Q0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "name": "Red Notice",
+        "description": "An Interpol agent tracks the world's most wanted art thief.",
+        "length": 118,
+        "director": [
+            "Rawson Marshall Thurber"
+        ],
+        "actors": [
+            "Dwayne Johnson",
+            "Ryan Reynolds",
+            "Gal Gadot",
+            "Ritu Arya",
+            "Chris Diamantopoulos",
+            "Ivan Mbakop",
+            "Vincenzo Amato",
+            "Rafael Petardi"
+        ],
+        "genre": [
+            "Action",
+            "Thriller",
+            "Crime"
+
+        ],
+        "year": [
+            "2021"
+        ]
+    },
+    {
+        "id": 4,
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+        "name": "Dune",
+        "description": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+        "length": 155,
+        "director": [
+            "Denis Villeneuve"
+        ],
+        "actors": [
+            "Timothée Chalamet",
+            "Rebecca Ferguson",
+            "Oscar Isaac",
+            "Jason Momoa",
+            "Stellan Skarsgård",
+            "Stephen McKinley Henderson",
+            "Josh Brolin",
+            "Javier Bardem",
+            "Sharon Duncan-Brewster"
+        ],
+        "genre": [
+            "Sci-FI"
+        ],
+        "year": [
+            "2021"
+        ]
+    },
+    {
+        "id": 5,
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_.jpg",
+        "name": "Inside Out",
+        "description": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+        "length": 95,
+        "director": [
+            "Pete DocterRonnie",
+            "Del Carmen"
+        ],
+        "actors": [
+            "Amy Poehler",
+            "Phyllis Smith",
+            "Richard Kind",
+            "Bill Hader",
+            "Lewis Black",
+            "Mindy Kaling",
+            "Kaitlyn Dias",
+            "Diane Lane",
+            "Kyle MacLachlan"
+        ],
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Cartoon"
+        ],
+        "year": [
+            "2015"
+        ]
+    },
+    {
+        "id": 6,
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_FMjpg_UX1000_.jpg",
+        "name": "Interstellar",
+        "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "length": 169,
+        "director": [
+            "Christopher Nolan"
+        ],
+        "actors": [
+            "Ellen Burstyn",
+            "Matthew McConaughey",
+            "Mackenzie Foy"
+        ],
+        "genre": [
+            "Sci-FI",
+            "Adventure",
+            "Drama"
+
+        ],
+        "year": [
+            "2014"
+        ]
+    },
+    {
+        "id": 7,
+        "thumbnail": "https://flxt.tmsimg.com/assets/p9742380_p_v10_ai.jpg",
+        "name": "We're the Millers",
+        "description": "A veteran pot dealer creates a fake family as part of his plan to move a huge shipment of weed into the U.S. from Mexico.",
+        "length": 110,
+        "director": [
+            "Rawson Marshall Thurber"
+        ],
+        "actors": [
+            "Jennifer Aniston",
+            "Jason Sudeikis",
+            "Emma Roberts",
+            "Will Poulter"
+        ],
+        "genre": [
+            "Comedy",
+            "Crime"
+        ],
+        "year": [
+            "2013"
+        ]
+    },
+    {
+        "id": 8,
+        "thumbnail": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Paperman_%282012%29_poster.jpg/220px-Paperman_%282012%29_poster.jpg",
+        "name": "Paperman",
+        "description": "An office worker meets the girl of his dreams and uses a fleet of paper airplanes to get her attention",
+        "length": 7,
+        "director": [
+            "John Kahrs"
+        ],
+        "actors": [
+            "John Kahrs",
+            "Kari Wahlgren"
+        ],
+        "genre": [
+            "Romance",
+            "Comedy",
+            "Cartoon"
+        ],
+        "year": [
+            "2012"
+        ]
+    },
+    {
+        "id": 9,
+        "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg?region=0%2C0%2C540%2C810",
+        "name": "Avengers: Endgame",
+        "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+        "length": 181,
+        "director": [
+            "Anthony Russo",
+            "Joe Russo"
+        ],
+        "actors": [
+            "Robert Downey Jr.",
+            "Chris Evans",
+            "Mark Ruffalo",
+            "Chris Hemsworth",
+            "Scarlett Johansson",
+            "Jeremy Renner",
+            "Don Cheadle",
+            "Paul Rudd",
+            "Benedict Cumberbatch",
+            "Chadwick Boseman",
+            "Brie Larson",
+            "Tom Holland",
+            "Karen Gillan",
+            "Zoe Saldana"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Sci-FI"
+        ],
+        "year": [
+            "2019"
+        ]
+    },
+    {
+        "id": 10,
+        "thumbnail": "https://lumiere-a.akamaihd.net/v1/images/movie_poster_zootopia_866a1bf2.jpeg?region=0%2C0%2C300%2C450",
+        "name": "Zootopia",
+        "description": "In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+        "length": 108,
+        "director": [
+            "Byron Howard",
+            "Rich Moore",
+            "Jared Bush"
+        ],
+        "actors": [
+            "Ginnifer Goodwin",
+            "Jason Bateman",
+            "Idris Elba",
+            "Jenny Slate",
+            "Nate Torrence",
+            "Bonnie Hunt",
+            "Don Lake"
+        ],
+        "genre": [
+            "Comedy",
+            "Adventure",
+            "Cartoon"
+        ],
+        "year": [
+            "2016"
+        ]
+    },
+    {
+        "id": 11,
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzhhMDkwNWItMmRlMS00ODg1LTkzMzAtZGM3NTAwNzViZGU5XkEyXkFqcGdeQXVyOTI3MDg0NzA@._V1_.jpg",
+        "name": "Piper",
+        "description": "A hungry sandpiper hatchling ventures from her nest for the first time to dig for food by the shoreline. The problem is, the food is buried in the sand where scary waves roll up.",
+        "length": 6,
+        "director": [
+            "Alan Barillaro"
+        ],
+        "actors": [
+            "Bui Quoc Huy Steve"
+        ],
+        "genre": [
+            "Cartoon",
+            "Comedy"
+        ],
+        "year": [
+            "2016"
+        ]
+    },
+    {
+        "id": 12,
+        "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI0NmFkYzEtNzU2YS00NTg5LWIwYmMtNmQ1MTU0OGJjOTMxXkEyXkFqcGdeQXVyMjMxOTE0ODA@._V1_.jpg",
+        "name": "Fast and Furious 9",
+        "description": "Dom Toretto is living the quiet life off the grid with Letty and his son, but they know that danger always lurks just over the peaceful horizon. This time, that threat forces Dom to confront the sins of his past to save those he loves most. His crew soon comes together to stop a world-shattering plot by the most skilled assassin and high-performance driver they've ever encountered -- Dom's forsaken brother.",
+        "length": 143,
+        "director": [
+            "Vin Diesel",
+            "Justin Lin",
+            "Rob Cohen"
+        ],
+        "actors": [
+            "Vin Diesel",
+            "John Cena",
+            "Jordana Brewster",
+            "Michelle Rodriguez",
+            "Tyrese Gibson",
+            "Ludacris",
+            "Charlize Theron",
+            "Nathalie Emmanuel"
+        ],
+        "genre": [
+            "Action",
+            "Adventure",
+            "Crime"
+
+        ],
+        "year": [
+            "2021"
+        ]
+    }
+]

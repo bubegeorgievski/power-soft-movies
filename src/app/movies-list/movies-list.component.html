@@ -1,0 +1,17 @@
+<body>
+    <div class="movies-title">
+        <h1>Movies</h1>
+    </div>
+
+    <div *ngFor="let movie of movieList" class='movie-list'>
+        <div class='movie-item'>
+            <h2>{{movie.name}}</h2>
+            <p>Runtime: {{movie.length | filter}}min.</p>
+
+            <mat-icon alt="Add to favorites" style>favorite</mat-icon>
+            <img src='{{movie.thumbnail}}'>
+            <h6 class="hoverDescription">{{movie.description}} </h6>
+            <button class="hoverButton" mat-raised-button (click)="openDialog(movie.id)">View Details</button>
+        </div>
+    </div>
+</body>

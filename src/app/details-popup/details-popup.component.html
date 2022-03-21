@@ -1,0 +1,30 @@
+<div class="wrapper">
+    <div class="main_card">
+        <div class="card_left">
+            <div class="card_datails">
+                <h1>{{movie.name}}</h1>
+                <div class="card_cat">
+                    <p class="PG">PG - 13</p>
+                    <p class="year">{{movie.year}}</p>
+                    <p class="genre">{{movie.genre}}</p>
+                    <p class="time">Runtime: {{movie.length| filter}}min.</p>
+                </div>
+                <h3>Description:
+                    <p class="disc">{{movie.description}}</p>
+                </h3>
+                <h3>Actors:
+                    <p>{{movie.actors}}</p>
+                </h3>
+                <h3>Director
+                    <p>{{movie.director}}</p>
+                </h3>
+            </div>
+        </div>
+        <div class="card_right">
+            <div class="img_container">
+                <img src="{{movie.thumbnail}}" alt="">
+            </div>
+
+        </div>
+    </div>
+</div>
